@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "466241693192",
+    "project_id": "patrimoine-2d2b4",
+    "storage_bucket": "patrimoine-2d2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466241693192:android:f41de0530295f8a66d13bd",
+        "android_client_info": {
+          "package_name": "com.example.patrimoine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466241693192-8pihb4cfc2eii50e8259ohblh12v6385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs72cyCvGQOsyYjckDhOGoZkYtI-fZ4WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466241693192-8pihb4cfc2eii50e8259ohblh12v6385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466241693192:android:098a3ad872d9fd186d13bd",
+        "android_client_info": {
+          "package_name": "com.freecode.fl_logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466241693192-8pihb4cfc2eii50e8259ohblh12v6385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs72cyCvGQOsyYjckDhOGoZkYtI-fZ4WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466241693192-8pihb4cfc2eii50e8259ohblh12v6385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
